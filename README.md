@@ -7,3 +7,6 @@ make && ./run
 #Libraries
 
 [JsonBox](https://github.com/anhero/JsonBox)
+
+All the data is randomized.
+
