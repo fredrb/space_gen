@@ -8,6 +8,7 @@ make && ./run
 
 [JsonBox](https://github.com/anhero/JsonBox)
 
-- All the data is randomized.
-
+All the data is randomized.
+  -Name
+  -Population
 
