@@ -1,6 +1,6 @@
 #Space Generator 
 
-**Version**: Development Alpha v.0.0.1
+**Version**: Development Alpha v.0.0.2
 
 make && ./run
 
