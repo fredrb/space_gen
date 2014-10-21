@@ -11,6 +11,10 @@ make && ./run
 All the data is randomized.
 
   -Name
-
+    Names are generated from two .txt files located in *data* folder.
+    
   -Population
+
+
+There's a *todo* list in *todo.md* file
 
