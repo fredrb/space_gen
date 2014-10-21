@@ -11,6 +11,7 @@ make && ./run
 All the data is randomized.
 
   -Name
+
     Names are generated from two .txt files located in *data* folder.
     
   -Population
